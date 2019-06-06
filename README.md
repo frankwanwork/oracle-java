@@ -9,3 +9,5 @@
 [docker-java]: https://github.com/frekele/docker-java
 
 - http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+To download JDK, directly from https://github.com/frekele/oracle-java/releases
